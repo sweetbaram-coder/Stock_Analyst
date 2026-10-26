@@ -1,0 +1,26 @@
+{
+  "domain": "news.einfomax.co.kr",
+  "capability": "js_render",
+  "fetcher_type": "playwright_spa_intercept",
+  "antibot_type": "none",
+  "antibot_strategy": "none",
+  "site_type": "csr",
+  "selectors": {
+    "item_root": "ul.type2 > li",
+    "title": "h4.titles a",
+    "link": "h4.titles a::attr(href)",
+    "lead": "p.lead a",
+    "author": "span.byline em:nth-of-type(2)",
+    "section": "span.byline em:nth-of-type(1)",
+    "published_at": "span.byline em:last-of-type"
+  },
+  "pagination": {
+    "type": "url_param",
+    "page_param": "page",
+    "total_param": "total",
+    "section_param": "sc_section_code",
+    "view_type": "sm"
+  },
+  "notes": "연합인포맥스 채권/외환 기사목록. 세션 없는 단발 HTTP 요청 시 페이지 리셋되므로 Playwright 브라우저 컨텍스트를 유지하여 page.goto(page=N&total=...&box_idxno=&sc_section_code=S1N16&view_type=sm)로 순회함.",
+  "last_used": "2026-09-04"
+}

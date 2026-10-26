@@ -1,0 +1,16 @@
+{
+  "current_step": 4,
+  "total_steps": 4,
+  "step_name": "전체 완료",
+  "elapsed_seconds": 8.65,
+  "updated_at": "2026-10-18T18:50:28.907237",
+  "details": {
+    "수집 대상 테마 수": 3,
+    "테마당 검토 종목 수": 5,
+    "선정 테마": "탈모 치료",
+    "1등 대장주": "올릭스 (226950)",
+    "Leader Score": 92.47,
+    "summary": "1위 테마: 탈모 치료 | 대장주: 올릭스 (226950) | Leader Score: 92.47점 | 엑셀: output\\run_20261018_185020\\screening_result.xlsx | 리포트: output\\run_20261018_185020\\analysis_report.md"
+  },
+  "completed": true
+}

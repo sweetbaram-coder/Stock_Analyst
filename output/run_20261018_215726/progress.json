@@ -1,0 +1,29 @@
+{
+  "current_step": 4,
+  "total_steps": 4,
+  "step_name": "전체 완료",
+  "elapsed_seconds": 8.67,
+  "updated_at": "2026-10-18T21:57:35.668703",
+  "details": {
+    "수집 대상 테마 수": 3,
+    "테마당 검토 종목 수": 5,
+    "선정 테마": "탈모 치료",
+    "1등 대장주": "올릭스 (226950)",
+    "Leader Score": 92.47,
+    "sop_verification": {
+      "all_passed": true,
+      "checklist": {
+        "데이터 완결성 (대장주 특정)": true,
+        "타임프레임 분리 (일/주/월봉 독립 기술)": true,
+        "구체적 가격대 명시 (숫자 가격)": true,
+        "펀더멘털 및 공시 통합": true,
+        "포맷 검증 (인용 번호 완전 제거)": true,
+        "9개 필수 섹션 템플릿 포함": true
+      },
+      "missing_sections": [],
+      "detected_price_count": 21
+    },
+    "summary": "1위 테마: 탈모 치료 | 대장주: 올릭스 (226950) | Leader Score: 92.47점 | 문서 제목: [주도주 분석보고서] 올릭스(226950) - 2026-10-18"
+  },
+  "completed": true
+}

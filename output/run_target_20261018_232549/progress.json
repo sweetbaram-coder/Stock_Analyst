@@ -1,0 +1,24 @@
+{
+  "current_step": 4,
+  "total_steps": 4,
+  "step_name": "전체 완료",
+  "elapsed_seconds": 4.85,
+  "updated_at": "2026-10-18T23:25:53.910121",
+  "details": {
+    "sop_verification": {
+      "all_passed": true,
+      "checklist": {
+        "데이터 완결성 (대장주 특정)": true,
+        "타임프레임 분리 (일/주/월봉 독립 기술)": true,
+        "구체적 가격대 명시 (숫자 가격)": true,
+        "펀더멘털 및 공시 통합": true,
+        "포맷 검증 (인용 번호 완전 제거)": true,
+        "9개 필수 섹션 템플릿 포함": true
+      },
+      "missing_sections": [],
+      "detected_price_count": 33
+    },
+    "summary": "지정 종목: 삼성전자(005930) | 문서 제목: [주도주 분석보고서] 삼성전자(005930) - 2026-10-18"
+  },
+  "completed": true
+}
